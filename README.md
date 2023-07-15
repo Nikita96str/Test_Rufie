@@ -1,7 +1,8 @@
 # TestRufie
-Десктопное приложение на PyQt5 для вычисления индекса работоспособности сердца
-Файлы проекта:<br>
-my_appVS<br>
-second_winVS<br>
-final_winVS<br>
-instrVS<br>
+PyQt5 desktop application for calculating the heart health index
+
+Project files:
+my_appVS - first application window
+second_winVS - second application window
+final_winVS - third application window
+instrVS - contains data for the application
